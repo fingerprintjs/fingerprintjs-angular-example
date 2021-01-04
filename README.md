@@ -1,4 +1,4 @@
-# FingerprintJS Pro working in create-react-app
+# FingerprintJS Pro working in Angular
 
 ## Setting up an Angular Project
 
