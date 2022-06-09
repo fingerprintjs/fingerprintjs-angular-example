@@ -1,6 +1,6 @@
-# FingerprintJS Pro working in Angular
+## 🕸️ THIS PROJECT IS ARCHIVED AND NOT MAINTAINED 🕸️
 
-## Setting up an Angular Project
+### 🚙 USE THIS INSTEAD: [fingerprintjs/fingerprintjs-pro-angular](https://github.com/fingerprintjs/fingerprintjs-pro-angular)
 
 First, create an app with the following command:
 
